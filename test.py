@@ -1,1 +1,0 @@
-print('Welcome to UDEMY course')
